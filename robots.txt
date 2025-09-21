@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /configuracoes
+Disallow: /api
+
+Sitemap: https://agilizacobranca.com/sitemap.xml
